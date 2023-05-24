@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Debasish</h1>
-<h3 align="center">A passionate frontend developer from Bhubaneswar,Odisha.<br>Let's connect and share our passion for technology.</h3>
+<h3 align="center">A tech enthusiast from Bhubaneswar,Odisha.<br>Let's connect and share our passion for technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofcdev&label=Profile%20views&color=0e75b6&style=flat" alt="ofcdev" /> </p>
