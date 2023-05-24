@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Devlopment**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m also intrested in **MERN Stack**,**UI/UX**
 
 - 📫 How to reach me **devop69@gmail.com**
 
