@@ -24,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofcdev&" alt="ofcdev" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFCDEV)](https://github.com/OFCDEV/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFCDEV&langs_count=8)
 
