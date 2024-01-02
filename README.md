@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ofcdev&show_icons=true&locale=en" alt="ofcdev" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ofcdev&" alt="ofcdev" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFCDEV&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFCDEV&layout=donut)](https://github.com/OFCDEV/github-readme-stats)
