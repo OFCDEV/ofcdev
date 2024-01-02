@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋, I'm Debasish</h1>
 <h3 align="center">A tech enthusiast from Bhubaneswar,Odisha.<br>Let's connect and share our passion for technology.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif">
+<img align="right" alt="Coding" height="350" width="350" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofcdev&label=Profile%20views&color=0e75b6&style=flat" alt="ofcdev" /> </p>
 
