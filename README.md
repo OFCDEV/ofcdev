@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ofcdev&label=Profile%20views&color=0e75b6&style=flat" alt="ofcdev" /> </p>
 
-- 🔭 I’m currently working on **Android Devlopment**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m also intrested in **MERN Stack**,**UI/UX**
+- 🌱 I’m also intrested in **Android Dev**,**UI/UX**
 
 - 📫 How to reach me **devop69@gmail.com**
 
