@@ -22,10 +22,8 @@
 
 ## Statistics 📊
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=OFCDEV&show_icons=true&theme=github&hide_border=true&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=OFCDEV&theme=github&hide_border=true&border_radius=10) |
--- | -- 
 
-<div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OFCDEV&radius=15&hide_border=true&theme=github" width="70%">
-    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=OFCDEV&show_icons=true&theme=github&hide_border=true&border_radius=10" width="26%"/>
-</div>
+[![](https://raw.githubusercontent.com/OFCDEV/Github-Templates/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/OFCDEV/Github-Templates/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OFCDEV/Github-Templates/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/OFCDEV/Github-Templates/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OFCDEV/Github-Templates/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
